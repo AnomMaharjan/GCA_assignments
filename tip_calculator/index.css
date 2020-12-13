@@ -1,36 +1,36 @@
-#tipCalculator{
-    width: 300px;
-    height: 400px;
-    background-color: rgb(183, 199, 183);
-    padding: 10px;
-    margin: 0 auto;
-}
+    #tipCalculator{
+        width: 300px;
+        height: 400px;
+        background-color: rgb(183, 199, 183);
+        padding: 10px;
+        margin: 0 auto;
+    }
 
-#result:before{
-    content: 'Your tip is Rs.';
-}
+    #result:before{
+        content: 'Your tip is Rs.';
+    }
 
-#result{
-    height: 60%;
-    font-size: 30px;
-    padding: 10px;
-    border: 1px solid black;
-    margin-bottom: 10px;
-}
+    #result{
+        height: 60%;
+        font-size: 30px;
+        padding: 10px;
+        border: 1px solid black;
+        margin-bottom: 10px;
+    }
 
-#input_values{
-    display: grid;
-    grid-template-columns: 50% 50%;
-    height: 50px;
-    grid-gap: 2px;
-}
+    #input_values{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        height: 50px;
+        grid-gap: 2px;
+    }
 
-button{
-    margin-top: 20px;
-    width: 100%;
-    height: 50px;
+    button{
+        margin-top: 20px;
+        width: 100%;
+        height: 50px;
 
-    background-color: orange;
-    border: none;
-    border-radius: 10px;
-}
+        background-color: orange;
+        border: none;
+        border-radius: 10px;
+    }

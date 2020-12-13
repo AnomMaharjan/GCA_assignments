@@ -2,13 +2,13 @@
 //     i)Pass the radius to the function.
 //     ii)Calculate the circumference based on the radius, and output "The circumference is NN"
 
-function calcCircumference(radius){
-    let circumference = 2 * 3.1415 * radius;
-    return circumference;
-}
+// function calcCircumference(radius){
+//     let circumference = 2 * 3.1415 * radius;
+//     return circumference;
+// }
 
-const output = calcCircumference(15);
-console.log("The circumference is " + output);
+// const output = calcCircumference(25);
+// console.log("The circumference is " + output);
 
 // 3.  Following is an Array of my favorite places and some two favorite place and remove 
 // Kathmandu from the list and also print the array with its length.
